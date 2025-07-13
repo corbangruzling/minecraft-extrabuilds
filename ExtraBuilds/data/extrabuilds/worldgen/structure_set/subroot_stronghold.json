@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "extrabuilds:subroot_stronghold",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 100,
+    "separation": 20,
+    "salt": 69420
+  }
+}

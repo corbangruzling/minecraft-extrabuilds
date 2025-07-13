@@ -1,0 +1,51 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 5,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stone_bricks",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            }
+          ],
+          "conditions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cobweb",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:experience_bottle",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3
+            }
+          ],
+          "conditions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond",
+          "weight": 2
+        }
+      ]
+    }
+  ],
+  "functions": []
+}

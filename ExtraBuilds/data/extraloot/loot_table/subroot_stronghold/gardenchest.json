@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 8,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:fern",
+          "weight": 1,
+          "functions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:short_grass",
+          "weight": 1,
+          "functions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:oak_leaves",
+          "weight": 1
+        }
+      ]
+    }
+  ],
+  "functions": []
+}
